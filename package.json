@@ -3,13 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "pixi.js": "6.0.4",
-    "react": "^16.13.1",
-    "react-anime": "^4.0.4",
+    "react": "^16.14.0",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8",
-    "react-spring": "^9.2.4",
-    "two.js": "^0.7.8"
+    "react-scripts": "2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -25,5 +21,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
